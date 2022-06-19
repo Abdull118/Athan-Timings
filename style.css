@@ -1,0 +1,31 @@
+body{
+background-image: url('https://i.pinimg.com/originals/ca/84/87/ca84876a74ce5e805db92119732531dd.jpg');
+background-repeat: no-repeat;
+background-size: 100%;
+display: flex;
+justify-content: center;
+}
+
+section {
+    border: solid 1px black;
+    border-radius: 20%;
+    box-shadow: 0px 0px 43px 17px rgba(153,153, 153, 1);
+    text-align: center;
+    width: 20%;
+    height: 350px;
+}
+
+ul{
+    list-style: none;
+    text-align: justify;
+
+}
+
+form>input, button{
+    border: 0px solid;
+    height: 30px;
+}
+
+button{
+    height: 32px;
+}
